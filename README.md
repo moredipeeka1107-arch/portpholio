@@ -1,2 +1,2 @@
-# portpholio
-my professional portpholio
+# portfolio
+my professional portfolio
